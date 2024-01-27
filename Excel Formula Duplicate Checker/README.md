@@ -6,7 +6,7 @@ It returns the formula parts that are used more than once and the cells that con
 This project helps to identify and avoid redundant or inconsistent formulas in Excel.
 
 # Instructions
-1- click on "Run Duplicate Checker
-2- Select your file to check
-3- enter single valid column letter to check
-4- get your results
+- click on "Run Duplicate Checker
+- Select your file to check
+- enter single valid column letter to check
+- get your results
