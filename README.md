@@ -1,3 +1,3 @@
 # VBA-Projects
 
-this respiratory will contain my open source vba projects
+this respiratory will contain my VBA projects
